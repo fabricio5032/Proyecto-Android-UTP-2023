@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_inicio"
+        android:icon="@drawable/logo_1"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/menu_emergencia"
+        android:icon="@drawable/logo_2"
+        android:title="@string/emergencia" />
+    <item
+        android:id="@+id/menu_citas"
+        android:icon="@drawable/logo_3"
+        android:title="@string/citas" />
+    <item
+        android:id="@+id/menu_perfil"
+        android:icon="@drawable/logo_5"
+        android:title="@string/perfil" />
+</menu>

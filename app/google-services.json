@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698913893264",
+    "project_id": "app-vida-sana-b2474",
+    "storage_bucket": "app-vida-sana-b2474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698913893264:android:7fe6c7e912ece792b16115",
+        "android_client_info": {
+          "package_name": "com.example.appvidasana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698913893264-v485k7mk6a22sg71e0fgjboukq4j3ton.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYCbKqSxBbsrWLqxXdpUeFdywokuLoSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698913893264-v485k7mk6a22sg71e0fgjboukq4j3ton.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

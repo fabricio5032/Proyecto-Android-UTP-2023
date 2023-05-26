@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">APP VIDA SANA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inicio_title">VIDA SANA</string>
+    <string name="inicio_description">
+        Misión: Mejorar el acceso y la eficiencia en la atención médica al conectar
+        a los pacientes con los profesionales de la salud. Lograr a brindar
+        un servicio confiable, seguro y fácil de usar para que los pacientes
+        puedan reservar citas en línea en cualquier momento y en
+        cualquier lugar sin ningún tipo de problemas e inconvenientes.
+
+        Visión: Ser una plataforma líder en citas médicas para mejorar el acceso a
+        la atención médica ayudando a los pacientes a obtener la atención
+        que necesitan de manera rápida y con una plataforma intuitiva y
+        fácil de usar al mismo tiempo optimizando nuestros servicios de
+        salud y seguir innovando en el uso de la tecnología para brindar
+        una mejor experiencia a nuestros usuarios.</string>
+    <string name="start_button">INICIO</string>
+    <string name="image_description">VIDA SANA</string>
+    <string name="emergencia_title">EMERGENCIA MEDICA</string>
+    <string name="emergencia_description">
+        Si tienes alguna emergencia médica,
+        por favor presiona el boton que aparece
+        en la parte de abajo para llamar a una ambulancia</string>
+    <string name="emergency_button">LLAMAR AMBULANCIA</string>
+    <string name="doctor_name">DOCTOR</string>
+    <string name="patient_name">PACIENTE</string>
+    <string name="appointment_time">HORARIO</string>
+    <string name="schedule_button">CONFIRMAR</string>
+    <string name="user_name">USUARIO</string>
+    <string name="user_email">E-MAIL</string>
+    <string name="user_edad">EDAD</string>
+    <string name="edit_profile_button">EDITAR</string>
+    <string name="inicio">INICIO</string>
+    <string name="emergencia">EMERGENCIA</string>
+    <string name="citas">RESERVA DE CITAS</string>
+    <string name="perfil">PERFIL</string>
+</resources>
